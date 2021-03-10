@@ -16,7 +16,7 @@
 ## 作者分支名     main     
 ## 同步分支名     ZIYE   （可自定义 ）
 
-https://github.com/ 6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE : ziye-sync
+https://github.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE.main: ZIYE
 on:
   schedule:
     - cron: '1 */3 * * *'
